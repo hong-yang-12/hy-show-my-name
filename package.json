@@ -1,0 +1,22 @@
+{
+  "name": "hy-show-my-name",
+  "version": "1.0.0",
+  "description": "swd npm project test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hong-yang-12/hy-show-my-name.git"
+  },
+  "keywords": [
+    "\"hy-show-my-name\""
+  ],
+  "author": "hong-yang-12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hong-yang-12/hy-show-my-name/issues"
+  },
+  "homepage": "https://github.com/hong-yang-12/hy-show-my-name#readme"
+}
